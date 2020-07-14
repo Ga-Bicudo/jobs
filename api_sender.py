@@ -24,4 +24,3 @@ curriculo = {
 
 api = requests.post("https://engine.scicrop.com/scicrop-engine-web/api/v1/jobs/post_resume", json = curriculo) 
 
-print(api)
